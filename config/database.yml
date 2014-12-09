@@ -7,10 +7,10 @@
 default: &default
   adapter: mysql2
   socket: /tmp/mysql.sock 
-  database: ad_fa4115324b5500b 
+  database: ad_25b61234713de84 
   hostname: us-cdbr-iron-east-01.cleardb.net 
-  username: bcd2e4b4355b74 
-  password: 446e7264
+  username: bd5372988df163 
+  password: cbba06a2
   pool: 5 
   timeout: 5000
   #adapter: sqlite3
